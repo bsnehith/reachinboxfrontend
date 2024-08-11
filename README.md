@@ -1,6 +1,9 @@
 Reachinbox-Assignment
 Reachinbox-Assignment for Frontend Engineer
 
+Deployment Link
+https://reachinbox-seven.vercel.app/
+
 Getting Started
 Follow these steps to clone and run the project on your local machine.
 
