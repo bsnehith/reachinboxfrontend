@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.App-header {
+  background-color: #000;
+  min-height: 100vh;
+
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.main-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.main {
+  position: relative;
+
+  width: 100%;
+  height: calc(100vh - 80px);
+}
+.btn {
+  background: linear-gradient(to left, #0000ff 9%, #3399ff 100%);
+}
+.index-page-height {
+  height: calc(100vh - 70px);
+}
+.right-side::-webkit-scrollbar {
+  display: none;
+}
+
+.right-side {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.vertical-line {
+  border: none;
+  background-color: #23272c;
+  width: 2px;
+  height: 30px;
+}
+
+.selected {
+  border-left: 1px solid #5c7cfa;
+}
