@@ -34,4 +34,4 @@ Or using yarn:
 yarn dev
 Open the project in your browser:
 
-Once the development server is running, open your browser and go to the URL provided by Vite, typically (http://localhost:5173/).
+Once the development server is running, open your browser and go to the URL provided by Vite, typically (http://localhost:3000/).
