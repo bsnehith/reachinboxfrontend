@@ -12,7 +12,7 @@ Node.js (which includes npm)
 Installation
 Clone the repository:
 
-git clone (https://github.com/baghel24/Reachinbox-Assignment.git)
+git clone (https://github.com/bsnehith/reachinboxfrontend.git)
 Navigate to the project directory:
 
 cd your-vite-react-project
